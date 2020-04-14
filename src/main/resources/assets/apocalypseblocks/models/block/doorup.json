@@ -1,0 +1,8 @@
+{
+  "parent": "apocalypseblocks:custom/doorup4",
+  "textures": {
+    "all": "apocalypseblocks:blocks/bunkerdoortop",
+    "particle": "apocalypseblocks:blocks/bunkerdoortop",
+    "0": "apocalypseblocks:blocks/bunkerdoortop"
+  }
+}

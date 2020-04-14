@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypseblocks:blocks/bunkersmoothfloor",
+    "up": "apocalypseblocks:blocks/bunkersmoothfloor",
+    "north": "apocalypseblocks:blocks/bunkersmoothfloorside",
+    "east": "apocalypseblocks:blocks/bunkersmoothfloorside",
+    "south": "apocalypseblocks:blocks/bunkersmoothfloorside",
+    "west": "apocalypseblocks:blocks/bunkersmoothfloorside",
+    "particle": "apocalypseblocks:blocks/bunkersmoothfloor"
+  }
+}

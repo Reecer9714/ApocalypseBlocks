@@ -1,0 +1,73 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Scorched Forest",
+    "groundBlock": {
+      "value": "CUSTOM:ScorchedGrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:ScorchedDirt"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 2,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:ScorchedLog"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -11052184,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -6710887,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10053121,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 2,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 1,
+    "gravelPatchesPerChunk": 1,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 3,
+    "rainingPossibility": 0.7,
+    "temperature": 0.51,
+    "baseHeight": 0.1,
+    "heightVariation": 0.19999999999999998,
+    "spawnBiome": true,
+    "biomeWeight": 100,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "biomeDictionaryTypes": [],
+    "spawnList": [
+      {
+        "value": "EntityEnderman"
+      },
+      {
+        "value": "EntityHusk"
+      },
+      {
+        "value": "EntityWitherSkeleton"
+      }
+    ]
+  }
+}

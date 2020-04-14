@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "apocalypseblocks:bunkerexpansion"
+    },
+    "facing=north": {
+      "model": "apocalypseblocks:bunkerexpansion"
+    },
+    "facing=east": {
+      "model": "apocalypseblocks:bunkerexpansion",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypseblocks:bunkerexpansion",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypseblocks:bunkerexpansion",
+      "y": 270
+    }
+  }
+}

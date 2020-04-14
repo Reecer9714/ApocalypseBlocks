@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "apocalypseblocks:bunkerfloor"
+    },
+    "facing=north": {
+      "model": "apocalypseblocks:bunkerfloor"
+    },
+    "facing=east": {
+      "model": "apocalypseblocks:bunkerfloor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypseblocks:bunkerfloor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypseblocks:bunkerfloor",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "apocalypseblocks:bunkerfloor",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "apocalypseblocks:bunkerfloor",
+      "x": 90
+    }
+  }
+}

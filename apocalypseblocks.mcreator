@@ -1,0 +1,200 @@
+{
+  "id_map": {
+    "GUI": 2
+  },
+  "mod_elements": [
+    {
+      "name": "TestElement",
+      "type": "code",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "ScorchedGrass",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScorchedLog",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScorchedForest",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ContaminatedWaterMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ContaminatedWater",
+      "type": "fluid",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScorchedDirt",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BunkerExpansion",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ApocalypseBlocksTab",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BunkerExpansionGUIOnSelect",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "BunkerExpansionGUIOnBuild",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "BunkerBlock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BunkerFloor",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BunkerSmoothFloor",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BunkerDoor",
+      "type": "code",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "BunkerExpansionGUI",
+      "type": "gui",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 2
+      }
+    },
+    {
+      "name": "ApocalypseEventHandler",
+      "type": "code",
+      "sortid": 34,
+      "compiles": false,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "WorldData",
+      "type": "code",
+      "sortid": 35,
+      "compiles": false,
+      "locked_code": true,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabapocalypseblockstab": "Apocalypse Blocks",
+      "tile.bunkerblock.name": "Bunker Block",
+      "tile.scorchedgrass.name": "Scorched Grass",
+      "tile.bunkerfloor.name": "Bunker Floor",
+      "tile.scorchedlog.name": "Scorched Log",
+      "tile.bunkerexpansion.name": "Bunker Expansion",
+      "fluid.contaminatedwater": "ContaminatedWater",
+      "tile.bunkersmoothfloor.name": "Bunker Smooth Floor",
+      "tile.scorcheddirt.name": "Scorched Dirt"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "apocalypseblocks",
+    "modName": "ApocalypseBlocks",
+    "version": "1.0.0",
+    "author": "reece",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.apocalypseblocks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

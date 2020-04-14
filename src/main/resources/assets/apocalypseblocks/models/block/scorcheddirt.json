@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypseblocks:blocks/dirt",
+    "up": "apocalypseblocks:blocks/dirt",
+    "north": "apocalypseblocks:blocks/dirt",
+    "east": "apocalypseblocks:blocks/dirt",
+    "south": "apocalypseblocks:blocks/dirt",
+    "west": "apocalypseblocks:blocks/dirt",
+    "particle": "apocalypseblocks:blocks/dirt"
+  }
+}
